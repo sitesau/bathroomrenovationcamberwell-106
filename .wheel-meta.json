@@ -1,0 +1,22 @@
+{
+  "wheel_id": 661,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcamberwell-106",
+  "project": "bathroom-renovations-camberwell-myths-58031c04d15f279fb6d4f77b1",
+  "parent_t1_ref": "bathroomrenovationcamberwell-153",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcamberwell.com.au",
+  "primary_kw": "bathroom renovations camberwell myths",
+  "intended_url": "https://sitesau.github.io/bathroomrenovationcamberwell-106/",
+  "tier": "T2",
+  "writeback_nonce": "ed4fc664af0a7da5",
+  "links": [
+    {
+      "target_url": "http://bathroom-renovations-camberwell-0c301ba9ff180c3a1e778b3f9ffbb97.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "bathroom renovations camberwell",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
